@@ -19,6 +19,10 @@ body {
     justify-content: space-between;
   }
   
+  .emoji p{
+    flex-grow:1;
+  }
+
   .emoji h2 {
     margin: 0;
     border-bottom: 2px solid #ccc;
